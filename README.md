@@ -1,0 +1,1 @@
+Projeto para conclusão do curso "O dia a dia de um QA: a prática de testes manuais funcionais" do módulo "Fundamentos de qualidade e desenvolvimento de software" do Bootcamp GFT Quality Assurance Para Mulheres
